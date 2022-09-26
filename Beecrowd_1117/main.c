@@ -20,5 +20,6 @@ int main() {
 	media = (num1 + num2)/2;
 	printf("media = %.2f\n", media);
 
+
   return 0;
    }
